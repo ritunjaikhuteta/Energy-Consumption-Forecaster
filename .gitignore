@@ -1,0 +1,46 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Distribution
+*.egg-info/
+dist/
+build/
+
+# Jupyter notebooks (optional)
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Model artifacts (can be large)
+models/*.json
+models/*.pkl
+models/*.joblib
+
+# Streamlit cache
+.streamlit/
+
+# Uploaded data files (keep sample data only)
+data/*.csv
+!data/sample_energy.csv
+!data/sample_energy_hourly.csv
+
+# Logs
+*.log
