@@ -1,6 +1,12 @@
 # ⚡ Energy Consumption Forecaster
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://energy-consumption-forecaster-ljrwvqozxrgeswf3puurre.streamlit.app/)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/ritunjaikhuteta/Energy-Consumption-Forecaster)
+
 > **Time-Series Forecasting using Facebook Prophet** — A beginner-friendly yet professional portfolio project demonstrating energy demand prediction with an interactive Streamlit dashboard.
+
+🌐 **Live Demo:** [https://energy-consumption-forecaster-ljrwvqozxrgeswf3puurre.streamlit.app/](https://energy-consumption-forecaster-ljrwvqozxrgeswf3puurre.streamlit.app/)
 
 ---
 
@@ -62,9 +68,17 @@ energy-consumption-forecaster/
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Quick Start & Live Access
 
-### Windows
+### 🌐 Try It Online (No Installation Required)
+Access the deployed web dashboard directly:
+👉 **[Launch Live Forecaster App](https://energy-consumption-forecaster-ljrwvqozxrgeswf3puurre.streamlit.app/)**
+
+---
+
+### 💻 Local Installation
+
+#### Windows
 
 ```batch
 :: 1. Navigate to the project folder
