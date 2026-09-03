@@ -34,8 +34,8 @@ models/*.json
 models/*.pkl
 models/*.joblib
 
-# Streamlit cache
-.streamlit/
+# Streamlit
+.streamlit/secrets.toml
 
 # Uploaded data files (keep sample data only)
 data/*.csv
